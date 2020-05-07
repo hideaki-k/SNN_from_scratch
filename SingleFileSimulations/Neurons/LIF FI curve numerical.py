@@ -27,6 +27,6 @@ plt.figure(figsize=(4, 3))
 plt.plot(I, rate)
 plt.xlabel("Input current(nA)")
 plt.ylabel("Firing rate(Hz)")
-plt.show()
+plt.show()#sss
 
 
