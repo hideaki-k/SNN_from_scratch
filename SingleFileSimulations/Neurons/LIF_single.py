@@ -31,7 +31,7 @@ for i in tqdm(range(nt)):
 plt.figure(figsize=(5, 5))
 plt.subplot(2,1,1)
 plt.plot(t,I,color="k")
-plt.ylabel("I")
+plt.ylabel("Input Current(nA)")
 plt.xlabel("t")
 
 plt.subplot(2,1,2)
